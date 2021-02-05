@@ -1,0 +1,225 @@
+{
+  "main": {
+    "name":"Eduardo Moreira", 
+    "occupation":"Programmer",
+    "description":"Innovative Internet developer and entrepreneur who strives to make the world a more united and connected place. Domain of software development, database management systems and work with different data structures",
+    "image":"profilepic.jpg",
+    "bio":{
+      "bio1":"I am a programmer with experience in web development, desktop applications, both relational and non-relational databases, deployment of servers on platforms such as Heroku, Godaddy (cpanel), etc.",
+      "bio2":"I have a good command of Git to manage the version control of my projects and good code organization. Whenever I can improve or optimize something, I do it.",
+      "bio3":"Despite my passion for creating videogames with Unity3D and Blender, and that in the future I would like to dedicate myself professionally to it, I focus my time on web development, considering myself a Full Stack developer. I have skills in various OS, programming languages, data structures and algorithms, and both front-end and back-end frameworks.",
+      "bio4":"I specialize in the MERN development stack, since I love working with the technologies that compose it. I adapt quickly to any technology, learning everything that is necessary in a very short time."
+    },
+    "contactmessage":"You can contact me through the following form.",
+    "email": "eduar2.moreira@gmail.com",
+    "phone": "58286995",
+    "address":{
+      "street":"-",
+      "city":"La Habana",
+      "state":"-",
+      "country": "Cuba"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100009451258792",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/eduardo-moreira-09538a190/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/eduar2____/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/eduar297",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Havana",
+        "degree":"4th-year Computer Science student",
+        "graduated":"-",
+        "description":"At the moment I am studying the 4th year of my specialty. I have acquired most of my knowledge in school, although I have learned many things in a self-taught way."
+      }
+    ],
+    "work":[
+      {
+        "company":"Elevercenter",
+        "title":"Layout, design and programming",
+        "years":"September 2020 - January 2021",
+        "description":"The work consisted of creating a virtual platform where professionals and clients could register. Professionals could rent offices to carry out sessions, while clients created appointments to meet with specialists in those offices. For this project I used ReactJs to create the frontend, Redux to handle the application statuses, Material UI for the styles, Axios to make the requests to an API-REST that I used as a back-end server, for this I used Node + Express, and as database, Mongodb."
+      },
+      {
+        "company":"Crisálida",
+        "title":"Programming and maintenance",
+        "years":"April 2019 - July 2019",
+        "description":"The objective of the project was to develop a website where clients could enter and pass a series of psychological tests to find out their mental state. It was my first job with php and it took me a bit of work, but I learned a lot about that wonderful programming language, as well as the framework used (Laravel). As a database I used MariaDB."
+      },
+      {
+        "company":"Personal Projects",
+        "title":"Programming",
+        "years":"2016 - Present",
+        "description":"I have acquired most of my knowledge with personal projects. Among these I have some video games, both single player and online; a text editor created in assembly language very similar to VIM, which I call VIM-ASM; some desktop applications, created with WindowsForm (C #), WPF, ElectronJs, Tkinter (Python), etc.; web pages in different technologies, both front-end and back-end; and console applications in various programming languages (C, C #, PHP, JS (Node), TS, Python, F #, etc.). Since Git came into my life, I manage all the versions of my projects with this wonderful tool. I have learned how to deploy servers in the cloud efficiently, as well as various tools to do it. I am from the group of obscure programmers who use any Linux distro. I have a medium-advanced level of Bash; and almost everything I have learned has been self-taught, with the help of man's best friend, the Internet."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"85%"
+      },
+      {
+        "name":"Typescript",
+        "level":"85%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"PHP",
+        "level":"65%"
+      },
+      {
+        "name":"F#",
+        "level":"15%"
+      },
+      {
+        "name":"ASM Assembly",
+        "level":"45%"
+      },
+      {
+        "name":"Latex",
+        "level":"45%"
+      },
+      {
+        "name":"Git",
+        "level":"65%"
+      },
+      {
+        "name":"Bash",
+        "level":"65%"
+      },
+      {
+        "name":"JQuery",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"85%"
+      },
+      {
+        "name":"AdonisJs",
+        "level":"45%"
+      },
+      {
+        "name":"Angular (TS)",
+        "level":"65%"
+      },
+      {
+        "name":"Angular",
+        "level":"65%"
+      },
+      {
+        "name":"Laravel",
+        "level":"50%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"87%"
+      },      
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"75%"
+      },
+      {
+        "name":"MariaDB",
+        "level":"50%"
+      },
+      {
+        "name":"Unity3D",
+        "level":"35%"
+      },
+      {
+        "name":"Blender",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"-",
+        "user":"-"
+      }
+    ]
+  }
+}
